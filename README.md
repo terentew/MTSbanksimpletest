@@ -101,7 +101,7 @@ gradle clean MTSsimpletest // to run all tests of main page
 # Telegram notification
 <p  align="left">
 <code>
-<img width="80%" title="Telegram notification" src="readme-pics/telega-notifi.png">
+<img width="60%" title="Telegram notification" src="readme-pics/telega-notifi.png">
 </code>
 </p>
 
