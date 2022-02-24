@@ -50,10 +50,10 @@ Serve report:
 allure serve build/allure-results
 ```
 
-###### For further development there are some example tests in [src/test/java/ru/terentew/qa/mtsbank/tests](https://github.com/terentew/MTSbank/blob/405510f1d1085fa6bfc1c45c6bf71900df7157d8/src/test/java/ru/terentew/qa/mtsbank/tests/MTSBankTests.java)
+###### For further development there are some example tests in [src/test/java/ru/terentew/qa/mtsbank/tests](https://github.com/terentew/MTSbank/blob/405510f1d1085fa6bfc1c45c6bf71900df7157d8/src/test/java/ru/terentew/mtssimpletest/tests/MTSsimpletest.java)
 * remove @Disabled("...") annotation to run desabled tests
 ```bash
-gradle clean MTSBankTests // to run all tests of main page
+gradle clean MTSsimpletest // to run all tests of main page
 ```
 
 
@@ -63,7 +63,7 @@ gradle clean MTSBankTests // to run all tests of main page
 
 <p  align="left">
 <code>
-<img width="80%" title="Jenkins-params" src="readme-pics/jenkins-parameters.png">
+<img width="80%" title="Jenkins-params" src="readme-pics/Jenkins.png">
 </code>
 </p>
 
@@ -80,21 +80,21 @@ gradle clean MTSBankTests // to run all tests of main page
 ## Allure overview
 <p  align="left">
 <code>
-<img width="80%" title="Allure overview" src="readme-pics/allure-overview.png">
+<img width="80%" title="Allure overview" src="readme-pics/Allure1.png>
 </code>
 </p>
 
 ## Allure test result
 <p  align="left">
 <code>
-<img width="80%" title="Allure test result" src="readme-pics/allure-test-result.png">
+<img width="80%" title="Allure test result" src="readme-pics/Allure Reports.png">
 </code>
 </p>
 
 ## Allure video result
 <p  align="left">
 <code>
-<img width="80%" title="Allure video" src="readme-pics/allure-video.gif">
+<img width="80%" title="Allure video" src="readme-pics/AlureVideo.gif">
 </code>
 </p>
 
